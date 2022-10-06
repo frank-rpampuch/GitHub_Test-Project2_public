@@ -1,0 +1,15 @@
+{
+  "author": "Robert.Pampuch",
+  "category": "Project",
+  "createdAt": "2022-10-06 11:38:31",
+  "name": "GitHub_Test-Project2_public",
+  "path": "C:/Users/robert.pampuch/Desktop/STUDIO/Projects",
+  "updatedAt": "2022-10-06 11:38:31",
+  "version": "2022.2.0",
+  "versionControl": {
+    "enabled": false,
+    "remote": {
+      "url": ""
+    }
+  }
+}

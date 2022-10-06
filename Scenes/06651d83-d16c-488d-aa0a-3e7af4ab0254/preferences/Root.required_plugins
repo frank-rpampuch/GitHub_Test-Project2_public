@@ -1,0 +1,7 @@
+{
+    "Type": "RequiredPluginsFile",
+    "Name": "Root",
+    "RequiredPlugins": [
+        "breeze-assimp"
+    ]
+}

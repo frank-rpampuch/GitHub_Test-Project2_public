@@ -1,0 +1,35 @@
+{
+  "RESERVED_TYPE_NAME": "Incari::AttributeEditor::Factory::ColorPicker",
+  "_colors": [
+    "rgba(033, 044, 060, 1.0000)",
+    "rgba(022, 089, 219, 1.0000)",
+    "rgba(000, 018, 255, 1.0000)",
+    "rgba(051, 000, 255, 1.0000)",
+    "rgba(082, 000, 255, 1.0000)",
+    "rgba(159, 113, 212, 1.0000)",
+    "rgba(212, 212, 212, 1.0000)",
+    "rgba(000, 000, 000, 0.0000)",
+    "rgba(000, 000, 000, 0.0000)",
+    "rgba(000, 000, 000, 0.0000)",
+    "rgba(000, 000, 000, 0.0000)",
+    "rgba(000, 000, 000, 0.0000)",
+    "rgba(000, 000, 000, 0.0000)",
+    "rgba(000, 000, 000, 0.0000)"
+  ],
+  "_isColorSlotDefined": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ]
+}

@@ -1,0 +1,101 @@
+{
+    "Type": "SceneWrapper",
+    "ID": "06651d83-d16c-488d-aa0a-3e7af4ab0254",
+    "Name": "Root",
+    "RenderToTexture": "0",
+    "AlphaMode": "0",
+    "NumDepthPeelingLayers": "3",
+    "Root": {
+        "Type": "SceneObjectWrapper",
+        "Is2D": "false",
+        "ID": "5332bde8-e5d9-4dcc-b673-93b6756ef59a",
+        "BlueprintID": "5332bde8-e5d9-4dcc-b673-93b6756ef59a",
+        "Opacity": "1",
+        "AccumulatedOpacity": "1",
+        "Label": "",
+        "Enabled": "1",
+        "DrawBoundingBox": "0",
+        "Objects": [
+            {
+                "Type": "PrimitiveObjectWrapper",
+                "Is2D": "false",
+                "ID": "8edfec2a-bc5c-4b45-b481-6d759c1098fa",
+                "BlueprintID": "8edfec2a-bc5c-4b45-b481-6d759c1098fa",
+                "Opacity": "1",
+                "AccumulatedOpacity": "1",
+                "Label": "New Sphere",
+                "Enabled": "1",
+                "DrawBoundingBox": "0",
+                "Components": [
+                    {
+                        "Type": "SpherePrimitive",
+                        "ID": "377819cf-63a0-4fea-88b1-d8b69a79f515",
+                        "BlueprintID": "377819cf-63a0-4fea-88b1-d8b69a79f515",
+                        "Enabled": "1",
+                        "Label": "",
+                        "Opacity": "1",
+                        "AccumulatedOpacity": "1",
+                        "Transform": "(1 0 0 0\n 0 1 0 0\n 0 0 1 0\n 0 0 0 1)",
+                        "DrawBoundingBox": "0",
+                        "FlipNormals": "0",
+                        "Rows": "10",
+                        "Columns": "20",
+                        "Radius": "0.5",
+                        "DisplacementHeight": "0.333000004",
+                        "MaterialAssetDatabaseID": "00000000-0000-0000-0000-000000000000"
+                    }
+                ],
+                "Scale": "(1 1 1)",
+                "Size": "(1000 1000 1000)",
+                "Position": "(0 0 0)",
+                "Rotation": "(0 -0 0)",
+                "CurrentOpacity": "1",
+                "Locked": "0",
+                "PrimitiveName": "SpherePrimitive"
+            },
+            {
+                "Type": "DirectionalLightObjectWrapper",
+                "Is2D": "false",
+                "ID": "6b931395-3ba7-4adf-b216-8e83b253eefe",
+                "BlueprintID": "6b931395-3ba7-4adf-b216-8e83b253eefe",
+                "Opacity": "1",
+                "AccumulatedOpacity": "1",
+                "Label": "New Directional Light",
+                "Enabled": "1",
+                "DrawBoundingBox": "0",
+                "Components": [
+                    {
+                        "Type": "DirectionalLightComponentWrapper",
+                        "ID": "a2617e9d-a192-47a0-8c3c-3c447839c510",
+                        "BlueprintID": "a2617e9d-a192-47a0-8c3c-3c447839c510",
+                        "Enabled": "1",
+                        "Label": "",
+                        "Opacity": "1",
+                        "AccumulatedOpacity": "1",
+                        "Transform": "(1 0 0 0\n 0 1 0 0\n 0 0 1 0\n 0 0 0 1)",
+                        "DrawBoundingBox": "0",
+                        "LightColor": "(1 1 1 1)",
+                        "LightBrightness": "1",
+                        "EnableShadows": "0",
+                        "ShadowMapResolution": "(64 64)",
+                        "ShadowSampleKernelSize": "4",
+                        "ShadowNearClip": "0.00100000005",
+                        "ShadowOffset": "9.99999975e-05"
+                    }
+                ],
+                "Scale": "(1 1 1)",
+                "Size": "(1000 1000 1000)",
+                "Position": "(0 0 0)",
+                "Rotation": "(0 -0 0)",
+                "CurrentOpacity": "1",
+                "Locked": "0"
+            }
+        ],
+        "Scale": "(1 1 1)",
+        "Size": "(1000 1000 1000)",
+        "Position": "(0 0 0)",
+        "Rotation": "(0 -0 0)",
+        "CurrentOpacity": "1",
+        "Locked": "0"
+    }
+}

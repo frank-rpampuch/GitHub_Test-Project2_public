@@ -1,0 +1,11 @@
+{
+  "RESERVED_TYPE_NAME": "Incari::LogicEditor::LogicEditor",
+  "_eventManagerRegistryID": "2299e7f0-b705-4078-b402-05e4dc2b9532",
+  "_functionManagerRegistryID": "b3376386-01a4-4cfc-ab34-291634664ce6",
+  "_projectNodeManagerRegistryID": "cfa2be3a-a153-486f-ad06-958496bcea99",
+  "_sceneID2SceneNodeManagerRegistryID": {
+    "06651d83-d16c-488d-aa0a-3e7af4ab0254": "8ce32cae-aedf-4a04-93f1-f1bd90121a71"
+  },
+  "_variableManagerRegistryID": "f347be49-1ed4-4a01-a9e2-79fe1ce96fee",
+  "_widgetManagerRegistryID": "efa31af7-8e51-4033-a079-9a7ee3d543da"
+}

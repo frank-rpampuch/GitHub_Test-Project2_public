@@ -1,0 +1,6 @@
+{
+    "Type": "GlobalRenderingConfiguration",
+    "RenderingAllowMultithreading": "1",
+    "RenderingWaitForSceneUpdate": "0",
+    "SerializationAllowMultithreading": "1"
+}

@@ -1,0 +1,9 @@
+{
+    "Type": "StageFile",
+    "Name": "Root",
+    "SceneFileName": "scene\/Root.scene",
+    "ReuiredPluginsFileName": "preferences\/Root.required_plugins",
+    "WindowConfigsFileName": "preferences\/Root.window_configurations",
+    "GlobalRenderingConfigFileName": "preferences\/Root.global_rendering_configuration",
+    "RenderingConfigsFileName": "preferences\/Root.rendering_configurations"
+}

@@ -1,0 +1,229 @@
+{
+  "RESERVED_TYPE_NAME": "CGI::Utilities::Registry",
+  "_idEntries": {
+    "2299e7f0-b705-4078-b402-05e4dc2b9532": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Managers::EventManager",
+      "_eventRegistryIDs": []
+    },
+    "31798683-8ac4-4a41-9086-a247af50d5c7": {
+      "RESERVED_TYPE_NAME": "Incari::Logic::Gate",
+      "isArrival": false,
+      "isLogicNodeReflectionGetterFunction": false,
+      "isLogicNodeReflectionSetterFunction": false,
+      "isPulse": true,
+      "logicID": "fb818adc-99db-481c-b6b7-83d64f96894d",
+      "logicNodeID": "fb4656e4-95d3-4577-94e6-79f9079b8856",
+      "logicNodeReflectionGetterName": "onPulse()",
+      "logicNodeReflectionGetterParameter": "",
+      "logicNodeReflectionSetterName": "",
+      "logicNodeReflectionSetterParameter": ""
+    },
+    "34167789-ae9b-43f9-9318-5cd03e46a4fc": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Gate",
+      "_dataType": "Incari::Data::DataType::Pulse",
+      "_isLogicNodeReflectionGetterFunction": false,
+      "_isLogicNodeReflectionSetterFunction": false,
+      "_isNameEditable": false,
+      "_isVisible": true,
+      "_logicID": "33a176b8-3cd7-4756-b29a-ce8f583ce151",
+      "_logicNodeReflectionGetterName": "onPulse()",
+      "_logicNodeReflectionGetterParameter": "",
+      "_logicNodeReflectionSetterName": "",
+      "_logicNodeReflectionSetterParameter": "",
+      "_name": ""
+    },
+    "41f87384-9487-41ee-b818-976c268c3d64": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Gate",
+      "_dataType": "Incari::Data::DataType::Pulse",
+      "_isLogicNodeReflectionGetterFunction": false,
+      "_isLogicNodeReflectionSetterFunction": false,
+      "_isNameEditable": false,
+      "_isVisible": true,
+      "_logicID": "fb818adc-99db-481c-b6b7-83d64f96894d",
+      "_logicNodeReflectionGetterName": "onPulse()",
+      "_logicNodeReflectionGetterParameter": "",
+      "_logicNodeReflectionSetterName": "",
+      "_logicNodeReflectionSetterParameter": "",
+      "_name": ""
+    },
+    "50c0e568-62a2-43d0-822a-7b7773dee33f": {
+      "RESERVED_TYPE_NAME": "Incari::Logic::Nodes::OnSceneShow",
+      "_functionLogicID": "00000000-0000-0000-0000-000000000000",
+      "_isActive": true,
+      "_isContextRestoring": false,
+      "_isPulseOnlyMode": false,
+      "_logicID": "fb4656e4-95d3-4577-94e6-79f9079b8856",
+      "_sceneID": "06651d83-d16c-488d-aa0a-3e7af4ab0254",
+      "_sceneLogicID": "",
+      "_widgetLogicID": "00000000-0000-0000-0000-000000000000"
+    },
+    "702a8fec-7620-4a9b-a511-110ed4f2843e": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Nodes::OnSceneShow",
+      "_flags": "",
+      "_isActive": true,
+      "_isContextRestoring": false,
+      "_isPulsePassThrough": false,
+      "_logicID": "fb4656e4-95d3-4577-94e6-79f9079b8856",
+      "_name": "On Scene Show",
+      "_position": "(225 0)"
+    },
+    "8ce32cae-aedf-4a04-93f1-f1bd90121a71": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Managers::NodeManager",
+      "_arrivalGateRegistryIDs": [],
+      "_connectionRegistryID2GateRegistryIDs": {},
+      "_connectionRegistryID2StrapRegistryIDs": {},
+      "_departureGateRegistryIDs": [
+        "34167789-ae9b-43f9-9318-5cd03e46a4fc",
+        "41f87384-9487-41ee-b818-976c268c3d64"
+      ],
+      "_functionRegistryID": "00000000-0000-0000-0000-000000000000",
+      "_gateRegistryID2NodeRegistryID": {
+        "34167789-ae9b-43f9-9318-5cd03e46a4fc": "f0d588f2-15ca-478f-82f1-33e1a43c3720",
+        "41f87384-9487-41ee-b818-976c268c3d64": "702a8fec-7620-4a9b-a511-110ed4f2843e"
+      },
+      "_nodeRegistryID2GateRegistryIDs": {
+        "702a8fec-7620-4a9b-a511-110ed4f2843e": [
+          "41f87384-9487-41ee-b818-976c268c3d64"
+        ],
+        "f0d588f2-15ca-478f-82f1-33e1a43c3720": [
+          "34167789-ae9b-43f9-9318-5cd03e46a4fc"
+        ]
+      },
+      "_nodeRegistryIDs": [
+        "702a8fec-7620-4a9b-a511-110ed4f2843e",
+        "f0d588f2-15ca-478f-82f1-33e1a43c3720"
+      ],
+      "_prefabAssetID": "00000000-0000-0000-0000-000000000000",
+      "_pulseGateRegistryIDs": [
+        "34167789-ae9b-43f9-9318-5cd03e46a4fc",
+        "41f87384-9487-41ee-b818-976c268c3d64"
+      ],
+      "_sceneCenter": "(0 0)",
+      "_sceneID": "06651d83-d16c-488d-aa0a-3e7af4ab0254",
+      "_strapRegistryIDs": [],
+      "_widgetRegistryID": "00000000-0000-0000-0000-000000000000"
+    },
+    "91b65df7-3273-4f99-8163-3c7999a29a37": {
+      "RESERVED_TYPE_NAME": "Incari::Logic::Gate",
+      "isArrival": false,
+      "isLogicNodeReflectionGetterFunction": false,
+      "isLogicNodeReflectionSetterFunction": false,
+      "isPulse": true,
+      "logicID": "33a176b8-3cd7-4756-b29a-ce8f583ce151",
+      "logicNodeID": "b373f112-ecec-406f-acbc-ad17328be705",
+      "logicNodeReflectionGetterName": "onPulse()",
+      "logicNodeReflectionGetterParameter": "",
+      "logicNodeReflectionSetterName": "",
+      "logicNodeReflectionSetterParameter": ""
+    },
+    "9bad1902-5c1d-4cb8-a10a-9284c891ec61": {
+      "RESERVED_TYPE_NAME": "Incari::Logic::Nodes::OnSceneHide",
+      "_functionLogicID": "00000000-0000-0000-0000-000000000000",
+      "_isActive": true,
+      "_isContextRestoring": false,
+      "_isPulseOnlyMode": false,
+      "_logicID": "b373f112-ecec-406f-acbc-ad17328be705",
+      "_sceneID": "06651d83-d16c-488d-aa0a-3e7af4ab0254",
+      "_sceneLogicID": "",
+      "_widgetLogicID": "00000000-0000-0000-0000-000000000000"
+    },
+    "afdacd55-7a87-4292-88cf-4b4395de65ba": {
+      "RESERVED_TYPE_NAME": "Incari::Logic::Nodes::OnProjectInitialize",
+      "_functionLogicID": "00000000-0000-0000-0000-000000000000",
+      "_isActive": true,
+      "_isContextRestoring": false,
+      "_isPulseOnlyMode": false,
+      "_logicID": "d2137cf1-f394-484e-95f3-8032b4f3d2e1",
+      "_sceneLogicID": "",
+      "_widgetLogicID": "00000000-0000-0000-0000-000000000000"
+    },
+    "b3376386-01a4-4cfc-ab34-291634664ce6": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Managers::FunctionManager",
+      "_functionRegistryIDs": []
+    },
+    "cfa2be3a-a153-486f-ad06-958496bcea99": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Managers::NodeManager",
+      "_arrivalGateRegistryIDs": [],
+      "_connectionRegistryID2GateRegistryIDs": {},
+      "_connectionRegistryID2StrapRegistryIDs": {},
+      "_departureGateRegistryIDs": [
+        "d842650d-bc95-4cd1-a3a2-00b1c8db40ed"
+      ],
+      "_functionRegistryID": "00000000-0000-0000-0000-000000000000",
+      "_gateRegistryID2NodeRegistryID": {
+        "d842650d-bc95-4cd1-a3a2-00b1c8db40ed": "ecbf633b-e5b2-4ca7-91d2-a96229d0f876"
+      },
+      "_nodeRegistryID2GateRegistryIDs": {
+        "ecbf633b-e5b2-4ca7-91d2-a96229d0f876": [
+          "d842650d-bc95-4cd1-a3a2-00b1c8db40ed"
+        ]
+      },
+      "_nodeRegistryIDs": [
+        "ecbf633b-e5b2-4ca7-91d2-a96229d0f876"
+      ],
+      "_prefabAssetID": "00000000-0000-0000-0000-000000000000",
+      "_pulseGateRegistryIDs": [
+        "d842650d-bc95-4cd1-a3a2-00b1c8db40ed"
+      ],
+      "_sceneCenter": "(0 0)",
+      "_sceneID": "00000000-0000-0000-0000-000000000000",
+      "_strapRegistryIDs": [],
+      "_widgetRegistryID": "00000000-0000-0000-0000-000000000000"
+    },
+    "d842650d-bc95-4cd1-a3a2-00b1c8db40ed": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Gate",
+      "_dataType": "Incari::Data::DataType::Pulse",
+      "_isLogicNodeReflectionGetterFunction": false,
+      "_isLogicNodeReflectionSetterFunction": false,
+      "_isNameEditable": false,
+      "_isVisible": true,
+      "_logicID": "eb66a533-d72e-4600-84e2-77ab2a62e478",
+      "_logicNodeReflectionGetterName": "onPulse()",
+      "_logicNodeReflectionGetterParameter": "",
+      "_logicNodeReflectionSetterName": "",
+      "_logicNodeReflectionSetterParameter": "",
+      "_name": ""
+    },
+    "ecbf633b-e5b2-4ca7-91d2-a96229d0f876": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Nodes::OnProjectInitialize",
+      "_flags": "Incari::LogicEditor::Node::Flags::NoPulsePassThrough",
+      "_isActive": true,
+      "_isContextRestoring": false,
+      "_isPulsePassThrough": false,
+      "_logicID": "d2137cf1-f394-484e-95f3-8032b4f3d2e1",
+      "_name": "On Initialize",
+      "_position": "(0 0)"
+    },
+    "efa31af7-8e51-4033-a079-9a7ee3d543da": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Managers::WidgetManager",
+      "_widgetRegistryIDs": []
+    },
+    "f0d588f2-15ca-478f-82f1-33e1a43c3720": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Nodes::OnSceneHide",
+      "_flags": "",
+      "_isActive": true,
+      "_isContextRestoring": false,
+      "_isPulsePassThrough": false,
+      "_logicID": "b373f112-ecec-406f-acbc-ad17328be705",
+      "_name": "On Scene Hide",
+      "_position": "(0 0)"
+    },
+    "f347be49-1ed4-4a01-a9e2-79fe1ce96fee": {
+      "RESERVED_TYPE_NAME": "Incari::LogicEditor::Managers::VariableManager",
+      "_variableRegistryIDs": []
+    },
+    "f9b02986-bc54-47d0-abcf-4e37532d940c": {
+      "RESERVED_TYPE_NAME": "Incari::Logic::Gate",
+      "isArrival": false,
+      "isLogicNodeReflectionGetterFunction": false,
+      "isLogicNodeReflectionSetterFunction": false,
+      "isPulse": true,
+      "logicID": "eb66a533-d72e-4600-84e2-77ab2a62e478",
+      "logicNodeID": "d2137cf1-f394-484e-95f3-8032b4f3d2e1",
+      "logicNodeReflectionGetterName": "onPulse()",
+      "logicNodeReflectionGetterParameter": "",
+      "logicNodeReflectionSetterName": "",
+      "logicNodeReflectionSetterParameter": ""
+    }
+  }
+}

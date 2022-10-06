@@ -1,0 +1,18 @@
+{
+  "RESERVED_TYPE_NAME": "Incari::Logic::Logic",
+  "_logicConnectionID2registryConnectionID": {},
+  "_logicEventID2registryEventID": {},
+  "_logicFunctionID2registryFunctionID": {},
+  "_logicGateID2registryGateID": {
+    "33a176b8-3cd7-4756-b29a-ce8f583ce151": "91b65df7-3273-4f99-8163-3c7999a29a37",
+    "eb66a533-d72e-4600-84e2-77ab2a62e478": "f9b02986-bc54-47d0-abcf-4e37532d940c",
+    "fb818adc-99db-481c-b6b7-83d64f96894d": "31798683-8ac4-4a41-9086-a247af50d5c7"
+  },
+  "_logicNodeID2registryNodeID": {
+    "b373f112-ecec-406f-acbc-ad17328be705": "9bad1902-5c1d-4cb8-a10a-9284c891ec61",
+    "d2137cf1-f394-484e-95f3-8032b4f3d2e1": "afdacd55-7a87-4292-88cf-4b4395de65ba",
+    "fb4656e4-95d3-4577-94e6-79f9079b8856": "50c0e568-62a2-43d0-822a-7b7773dee33f"
+  },
+  "_logicVariableID2registryVariableID": {},
+  "_logicWidgetID2registryWidgetID": {}
+}
